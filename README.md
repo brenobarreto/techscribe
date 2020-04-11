@@ -23,6 +23,7 @@ Serif is a beautiful small business theme for Jekyll. It contains content types 
 - Robust example content included
 - Royalty free illustrations included
 
+
 # Installation
 
 To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
