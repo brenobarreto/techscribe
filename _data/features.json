@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "To The Point",
+    "description": "We only write content that matters in the real world. You have no time for bullshit, neither do we.",
+    "image": "images/features/target_emoji.png"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "All From Within",
+    "description": "Every single line you read from us is exclusive, fresh and written by people who are actually in the market.",
+    "image": "images/features/office_emoji.png"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "No Strings Attached",
+    "description": "You may leave whenever you want. We won't charge you anything or make any questions.",
+    "image": "images/features/unlocked_emoji.png"
   }
 ]

@@ -1,0 +1,26 @@
+---
+title: Blog
+layout: default
+permalink: /blog/
+---
+
+<div class="blog">
+
+    {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
+  
+      <div class="post-list">
+  
+      {% for post in site.posts %}
+        <a class="post-link" href="{{ post.url }}">
+          <div class="post-card">          
+            <h1 class="title">{{ post.title }}</h1>
+            <p class="post-extract">{{ post.extract }}</p>
+            <button class="post-button">Rean more →</button>
+        </a>
+          </div>
+      {% endfor %}
+
+    </div>
+
+</div>
+
