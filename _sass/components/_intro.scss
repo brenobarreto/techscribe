@@ -57,6 +57,12 @@
   padding-bottom: 30px;
 }
 
-.intro-about{
+.intro-about {
   margin-bottom: 100px;
+}
+
+@media (max-width: 800px) {
+  .intro-about {
+    margin-bottom: 0;
+  }
 }
