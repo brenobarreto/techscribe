@@ -10,6 +10,12 @@
   cursor: pointer;
 }
 
+.promotion-stripe-paragraph{
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .promotion-stripe a{
   text-decoration: none;
   color: #fff;
@@ -34,5 +40,16 @@
     @include media-breakpoint-up(lg) {
       display: block;
     }
+  }
+}
+
+@media (max-width: 590px){
+  .promotion-stripe{
+    height: auto;
+  }
+
+  .promotion-stripe-paragraph{
+    padding-left: 10px;
+    padding-right: 10px;
   }
 }
