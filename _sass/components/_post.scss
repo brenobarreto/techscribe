@@ -1,6 +1,7 @@
 .post-header {
   margin-top: 65px;
   margin-left: 20%;
+  margin-right: 20%;
   margin-bottom: 30px;
 }
 
@@ -8,7 +9,6 @@
   font-size: 42px;
   letter-spacing: -1px;
   line-height: 1;
-  padding-right: 100px;
 }
 
 .post-image{
@@ -48,5 +48,40 @@
 
   h4 {
     font-size: 20px;
+  }
+}
+
+@media (max-width: 1000px){
+  .post-header {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}
+
+@media (max-width: 900px){
+  .post-content {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 30px;
+  }
+
+  .post-image img{
+    height: 300px;
+  }
+}
+
+@media (max-width: 400px){
+  .post-header {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .post-content {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .post-image img{
+    height: 150px;
   }
 }
