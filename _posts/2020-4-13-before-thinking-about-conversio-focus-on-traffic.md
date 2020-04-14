@@ -27,7 +27,7 @@ However, despite this incredible result, if you have 5 visits to your site per d
 
 So, before building an ultra-optimized store, make sure you deliver a good product, with quality service, but in a way that's simple enough to make it **grow fast**. 
 
-As the great [Paul Graham](https://twitter.com/paulg/status/1250061898671947777) said in a recent tweet:
+As the great <a href="https://twitter.com/paulg/status/1250061898671947777" target="_blank">Paul Graham</a> said in a recent tweet:
 >"[For startups], slowness is way more likely to be due to inability than prudence. The startups that do things slowly don't do them any better. Just slower."
 
 After assuring that you have a simple but real business running - ie, one that has implemented the necessary channels and tools to bring traffic - focus on doing just that: **bringing traffic to your store**.
