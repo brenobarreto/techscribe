@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: 'https://www.commercehacker.co'
 exclude: ['README.md']
 permalink: pretty
 title: 'Commerce Hacker'
