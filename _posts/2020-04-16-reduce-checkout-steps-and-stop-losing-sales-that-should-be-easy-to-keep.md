@@ -2,7 +2,7 @@
 layout: post
 title:  "Reduce checkout steps and stop losing sales that should be easy to keep"
 extract: "Each additional step in the purchase checkout increases cart abandonment and reduces your conversion rate. Simplify your checkout and increase the percentage of completed orders."
-image: "/images/post-images/amazon-delivery-service-puts-pressure-on-ecommerce-logistics.jpg"
+image: "/images/post-images/reduce-checkout-steps-and-stop-losing-sales-that-should-be-easy-to-keep.jpg"
 ---
 
 How many buttons does your customer need to press from the moment they decide to buy a product until the moment they complete the purchase? How many fields do they need to fill? How much information do they need to read?
