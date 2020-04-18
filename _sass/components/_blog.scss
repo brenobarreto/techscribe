@@ -8,7 +8,7 @@
 }
 
 .post-card{
-    height: 270px;
+    height: auto;
     width: 65%;
     // border: 1px solid rgba(0,0,0,0.5);
     border-radius: 10px;
@@ -40,7 +40,7 @@
 }
 
 .post-button{
-    margin: 15px 30px 0 40px;
+    margin: 15px 30px 30px 40px;
     border-radius: 4px;
     background-color: $primary;
     cursor: pointer;
