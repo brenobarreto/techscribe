@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Commerce Hacker'
+title: 'The Morning Scribe'
 
 collections:
   team:
