@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How the creator-consumer turns your communication around"
-extract: "Start thinking about your client as a creator of content about your brand and bring a collaborator with zero cost, great motivation, and the ability to scale."
+extract: "Start thinking about your reader as a creator of content about your brand and bring a collaborator with zero cost, great motivation, and the ability to scale."
 image: "/images/post-images/how-the-creator-consumer-turns-your-communication-around.jpg"
 ---
 
@@ -24,14 +24,14 @@ Some of the content that can turn your customer into a producing consumer are:
 - Notes and comments on third party websites or applications (review platforms, marketplaces, etc.);
 - Forum discussions;
 - Public conversations on social networks (a thread on twitter, a comment on Facebook);
-- Posts on social networks displaying the brand (a photo of the customer using a product purchased in your store, a sticker of your brand on Instagram, a review video on youtube);
+- Posts on social networks displaying the brand (a photo of the customer using your product, a sticker of your brand on Instagram, a review video on youtube);
 - Posts on personal blogs about your brand;
 - Reports of experiences with the brand.
 
-If you find it strange to think of your client as a content creator, it might be worth adjusting your mindset. You may be leaving a collaborator out of your strategy - one that can bring results with a far better Return On Investment.
+If you find it strange to think of your reader or your client as a content creator, it might be worth adjusting your mindset. You may be leaving a collaborator out of your strategy - one that can bring results with a far better Return On Investment.
 
-The question is: how to give the necessary motivation for customers to become content creators, since there is no financial relationship involved? As Dan Ariely's experiment suggests, this will happen whenever the client finds a sense of purpose in the task. 
+The question is: how to give the necessary motivation for customers to become content creators, since there is no financial relationship involved? As Dan Ariely's experiment suggests, this will happen whenever the user finds a sense of purpose in the task. 
 
 Perhaps they relate to the vision of your brand to the point of wanting to make that connection public; maybe they want to be useful to a community interested in your product or service; maybe they care about creating a reputation as an expert on a certain subject and showing knowledge about your brand helps in that.
 
-By reflecting on the motivations and purposes that can turn your client into a pcreatorroducer, you may gain an important ally for your content strategy.
+By reflecting on the motivations and purposes that can turn your user into a producer, you may gain an important ally for your content strategy.

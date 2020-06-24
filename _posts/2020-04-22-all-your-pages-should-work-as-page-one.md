@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "All your pages should work as page one"
-extract: "Most of your customers will arrive at your ecommerce through Google, and will not necessarily land on your homepage. Therefore, all of your internal pages need to work as landing pages."
+extract: "In the Web, most of your users will arrive at your site through Google, and will not necessarily land on your homepage. Therefore, all of your internal pages need to work as landing pages."
 image: "/images/post-images/all-your-pages-should-work-as-page-one.jpg"
 ---
 
 Mark Baker's studies have changed the way many people view web browsing, myself included. The title of the book responsible for this change couldn't be clearer: **Every Page Is Page One**. That is, it doesn't matter the location or hierarchical level of a web page - to be relevant, it needs to work on its own, which means we need to build it with the same mindset used for our home pages.
 
-Let's take an example to understand why: an ecommerce with a ridiculously large amount of content, Amazon. Go to Google and type the following: `website: amazon.com`.
+Let's take an example to understand why: an e-commerce site with a ridiculously large amount of content, Amazon. Go to Google and type the following: `website: amazon.com`.
 
 What you are saying to the Google Search Engine is that you only want to see pages that are inserted in the domain `amazon.com`. On the results page, Google reports that there are 138 million pages that meet this condition, that is, that belong to the Amazon website.
 
