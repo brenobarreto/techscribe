@@ -1,25 +1,17 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'The Morning Scribe'
 
 collections:
-  services:
-    output: true
-    permalink: /services/:path/
   team:
     output: true
-    permalink: /team/:path/
-  testimonials:
+    permalink: /about/:path/
+  blog:
     output: true
-    permalink: /testimonials/:path/
+    permalink: /blog/:path/
 
 defaults:
-  - scope:
-      type: services
-    values:
-      layout: service
-      bodyClass: page-services-single
   - scope:
       path: 'images'
     values:
@@ -28,7 +20,7 @@ defaults:
 sass:
   style: compact # possible values: nested expanded compact compressed
 
-google_analytics_id: null
+google_analytics_id: UA-163325421-1
 
 plugins:
   - jekyll-environment-variables
